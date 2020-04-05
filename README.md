@@ -16,3 +16,16 @@ e.g. :
 
 
 Step 1: Load example.csv file
+using csv module 
+Expected input is a basic csv file as per above. Output is a 
+
+Step 2: Convert example.csv to rdf
+convert-to-rdf.py
+Use W3C recommendation from 2015 on CSV2RDF conversions:
+https://www.w3.org/TR/csv2rdf/
+and will use:
+https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/
+https://w3c.github.io/csvw/csv2rdf/
+
+
+
