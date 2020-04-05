@@ -11,8 +11,8 @@ e.g. :
 
 | Name | User | Github url | Number of Repos |
 |---|---|---|---|
-| Ilya Venger | vengeri | https://github.com/ivenger/ | 14 |
-| Tony Hammond | tonyhammond | https://github.com/tonyhammond | 13 |
+| Fred Flintstone | flintstonef | https://github.com/flintstone/ | 14 |
+| Barney Rubble | barneyrubble | https://github.com/awesomebarney | 11 |
 
 
 Step 1: Load example.csv file
