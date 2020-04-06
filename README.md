@@ -29,3 +29,5 @@ https://w3c.github.io/csvw/csv2rdf/
 
 
 
+see also:
+https://github.com/CLARIAH/COW
